@@ -19,7 +19,7 @@ https://commons.apache.org/proper/commons-net/download_net.cgi
 https://commons.apache.org/proper/commons-net/download_net.cgi
 https://commons.apache.org/proper/commons-net/download_net.cgi
 
-## Installing
+## Installation
 
 #### Première méthode 
 
