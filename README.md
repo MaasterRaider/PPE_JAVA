@@ -37,7 +37,7 @@ Vous pouvez exécuter le projet avec n'importe quel IDE, mais il en faut un ce p
 ## Réalisation
 
 - [Netbeans](https://fr.netbeans.org/) - IDE
-- [Maven](https://maven.apache.org/ - Manageur de dépendances
+- [Maven](https://maven.apache.org/) - Manageur de dépendances
 - [Java](https://www.java.com/fr/download/)  - Langage de programmation
 
 ## Manuel d'utilisation
