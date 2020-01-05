@@ -1,18 +1,19 @@
-# Project Title
+# PPE 3 JAVA - Création et Gestion de Curriculum Vitae 
 
-One Paragraph of project description goes here
+L'objectif de ce PPE était de développer un logiciel en Java permettant de créer et de gérer son curriculum vitae. Dans un premier temps, chaque équipe de la classe a crée une partie du logiciel, ensuite, nous devions les rassembler, les modifier et rajouter des composants pour pouvoir arriver à bout de ce projet.
 
-## Getting Started
+## Fonctionnalités
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+- Inscription 
+- Connexion
+- Modification des informations de l'utilisateur 
+- Création de CV
+- Exportation du CV au format PDF
+- Backoffice pour gérer les utilisateurs (création, modification, suppression)
 
-### Prerequisites
+### Prérequis
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+https://camo.githubusercontent.com/e71a535aee6717248ae0781c46eb8a29921e8503/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6d6d6f6e732d2d6e65742d332e362d73756363657373
 
 ### Installing
 
