@@ -19,7 +19,7 @@ https://commons.apache.org/proper/commons-net/download_net.cgi
 https://commons.apache.org/proper/commons-net/download_net.cgi
 https://commons.apache.org/proper/commons-net/download_net.cgi
 
-### Installing
+## Installing
 
 #### Première méthode 
 
@@ -30,17 +30,17 @@ https://commons.apache.org/proper/commons-net/download_net.cgi
 
 - Ouvrir Netbeans aller dans l'onglet Team, puis aller dans Git et enfin dans Clone mettre ce lien : https://github.com/Skoorpi-Dev/PPE_JAVA.git dans Repository URL et cliquer sur Finish
 
-### Execution du projet
+## Execution du projet
 
 Vous pouvez exécuter le projet avec n'importe quel IDE, mais il en faut un ce projet n'est pas en .jar
 
-### Réalisation
+## Réalisation
 
 - Netbeans - IDE
 - Maven - Manageur de dépendances
 - Java - Langage de programmation
 
-### Manuel d'utilisation
+## Manuel d'utilisation
 
 Si vous avez besoin d'aide pour utiliser le logiciel, je vous invite à consulter mon manuel ici
 
