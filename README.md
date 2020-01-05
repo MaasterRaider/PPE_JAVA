@@ -36,9 +36,9 @@ Vous pouvez exécuter le projet avec n'importe quel IDE, mais il en faut un ce p
 
 ## Réalisation
 
-- Netbeans - IDE
-- Maven - Manageur de dépendances
-- Java - Langage de programmation
+- [Netbeans](https://fr.netbeans.org/) - IDE
+- [Maven](https://maven.apache.org/ - Manageur de dépendances
+- [Java](https://www.java.com/fr/download/)  - Langage de programmation
 
 ## Manuel d'utilisation
 
@@ -48,7 +48,7 @@ Si vous avez besoin d'aide pour utiliser le logiciel, je vous invite à consulte
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [ROME](https://www.java.com/fr/download/) - Used to generate RSS Feeds
 
 ## Contributing
 
