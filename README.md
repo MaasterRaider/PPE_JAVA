@@ -14,48 +14,35 @@ L'objectif de ce PPE était de développer un logiciel en Java permettant de cr�
 ## Prérequis
 
 https://commons.apache.org/proper/commons-net/download_net.cgi
+https://commons.apache.org/proper/commons-net/download_net.cgi
+https://commons.apache.org/proper/commons-net/download_net.cgi
+https://commons.apache.org/proper/commons-net/download_net.cgi
+https://commons.apache.org/proper/commons-net/download_net.cgi
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+#### Première méthode 
 
-Say what the step will be
+- Vous allez d'abord créer un dossier avec le nom que vous voulez et ouvrir un bash git dedans pour cloner l'identifiant de notre composant qui est https://github.com/Skoorpi-Dev/PPE_JAVA.git .( commande : git clone https://github.com/Skoorpi-Dev/PPE_JAVA.git)
+- Ensuite sélectionner votre composant avec netbeans ( ouvrir fichier )
 
-```
-Give the example
-```
+#### Seconde méthode 
 
-And repeat
+- Ouvrir Netbeans aller dans l'onglet Team, puis aller dans Git et enfin dans Clone mettre ce lien : https://github.com/Skoorpi-Dev/PPE_JAVA.git dans Repository URL et cliquer sur Finish
 
-```
-until finished
-```
+### Execution du projet
 
-End with an example of getting some data out of the system or using it for a little demo
+Vous pouvez exécuter le projet avec n'importe quel IDE, mais il en faut un ce projet n'est pas en .jar
 
-## Running the tests
+### Réalisation
 
-Explain how to run the automated tests for this system
+- Netbeans - IDE
+- Maven - Manageur de dépendances
+- Java - Langage de programmation
 
-### Break down into end to end tests
+### Manuel d'utilisation
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+Si vous avez besoin d'aide pour utiliser le logiciel, je vous invite à consulter mon manuel ici
 
 ## Built With
 
