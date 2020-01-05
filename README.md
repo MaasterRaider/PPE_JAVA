@@ -11,9 +11,9 @@ L'objectif de ce PPE était de développer un logiciel en Java permettant de cr�
 - Exportation du CV au format PDF
 - Backoffice pour gérer les utilisateurs (création, modification, suppression)
 
-### Prérequis
+## Prérequis
 
-https://camo.githubusercontent.com/e71a535aee6717248ae0781c46eb8a29921e8503/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6d6d6f6e732d2d6e65742d332e362d73756363657373
+https://commons.apache.org/proper/commons-net/download_net.cgi
 
 ### Installing
 
