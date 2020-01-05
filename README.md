@@ -23,12 +23,12 @@ https://commons.apache.org/proper/commons-net/download_net.cgi
 
 #### Première méthode 
 
-- Vous allez d'abord créer un dossier avec le nom que vous voulez et ouvrir un bash git dedans pour cloner l'identifiant de notre composant qui est https://github.com/Skoorpi-Dev/PPE_JAVA.git .( commande : git clone https://github.com/Skoorpi-Dev/PPE_JAVA.git)
-- Ensuite sélectionner votre composant avec netbeans ( ouvrir fichier )
+- Vous allez d'abord créer un dossier avec le nom que vous voulez et ouvrir un bash git dedans pour cloner l'identifiant de notre composant qui est https://github.com/MaasterRaider/PPE_JAVA.git .( commande : git clone https://github.com/MaasterRaider/PPE_JAVA.git)
+- Ensuite sélectionner votre composant avec netbeans (ouvrir fichier)
 
 #### Seconde méthode 
 
-- Ouvrir Netbeans aller dans l'onglet Team, puis aller dans Git et enfin dans Clone mettre ce lien : https://github.com/Skoorpi-Dev/PPE_JAVA.git dans Repository URL et cliquer sur Finish
+- Ouvrir Netbeans aller dans l'onglet Team, puis aller dans Git et enfin dans Clone mettre ce lien : https://github.com/MaasterRaider/PPE_JAVA.git dans Repository URL et cliquer sur Finish
 
 ## Execution du projet
 
